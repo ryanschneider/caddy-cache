@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pquerna/cachecontrol/cacheobject"
+	"github.com/ryanschneider/cachecontrol/cacheobject"
 )
 
 // CacheRule determines if a request should be cached
